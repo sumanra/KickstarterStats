@@ -1,4 +1,4 @@
-# KickstarterStats# Unit 1 | Assignment - KickStart My Chart
+# Unit 1 | Assignment - KickStart My Chart
 
 ## Background
 
@@ -87,4 +87,4 @@ Since getting funded on Kickstarter requires meeting or exceeding the project's 
 
 ### Copyright
 
-Trilogy Education Services © 2017. All Rights Reserved.
+Trilogy Education Services Â© 2017. All Rights Reserved.
