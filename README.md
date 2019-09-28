@@ -23,5 +23,9 @@ Kickstarter is a crowdfunding service where over 300,000 projects have been laun
 
 <img src="Images/03-Excel-GIF.gif" width="500" height="300" class = "center">
 
+###### Report
+[Here](https://github.com/sumanra/KickstarterStats/blob/master/Report_Kickstarterstats.pdf) is the pdf version of the report that includes my findings. 
+
+
 
 
